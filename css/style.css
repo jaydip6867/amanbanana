@@ -59,6 +59,11 @@ br.responsive-br,br.brk-resp-2,br.brk-resp-3,br.brk-resp-4{
 {
   max-width: 150px;
 }
+#loader h2
+{
+  font-weight: bold;
+  text-transform: uppercase;
+}
 @media (min-width: 700px) {
 /* Grow */
 .hvr-grow {
@@ -1071,6 +1076,7 @@ float: left;
   background-image: url("../images/footer-bg.png");
   background-repeat: no-repeat;
   background-size: cover;
+  background-position: center ;
 }
 .footer-content h5 {
   font-family: "Libre Baskerville";
