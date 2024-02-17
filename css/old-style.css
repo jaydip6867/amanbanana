@@ -192,7 +192,7 @@ img {
 .welcome-heading4 {
   display: inline-block;
   font-size: 26px;
-  color: #000;
+  color: #232323;
   padding: 0px 0 0px 0;
   font-family: "Lemonada";
   font-weight: 600;
@@ -949,7 +949,7 @@ img {
 .about-short-outer {
   float: left;
   width: 100%;
-  background: #00712e;
+  background: #78ba50;
 }
 
 .about-tittle-bg {
@@ -984,7 +984,7 @@ img {
 
 .top-link li a.active,
 .top-link li a:hover {
-  color: #ff9e06;
+  color: #232323;
 }
 
 .about-para {
@@ -1069,7 +1069,7 @@ td.table-title {
 
 td.table-titl3 {
   color: #fff;
-  background: #94b403;
+  background: #78ba50;
   font-size: 18px;
   padding: 8px 20px 8px 20px;
   font-weight: 500;
@@ -1444,7 +1444,7 @@ th.firstchild {
 
 .pproductdet h3 span {
   float: left;
-  background: #00712e;
+  background: #78ba50;
   color: #fff;
   padding: 6px 20px;
 }
@@ -1475,7 +1475,7 @@ th.firstchild {
   width: 100%;
   margin-top: 20px;
   text-align: center;
-  border: 7px solid transparent;
+  border: 7px solid #78ba50;
   background: linear-gradient(to right, white, white),
     linear-gradient(to right, #01712f, #f2953a);
   background-clip: padding-box, border-box;

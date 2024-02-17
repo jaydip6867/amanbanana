@@ -93,7 +93,7 @@ a {
 }
 .navbar .container .links ul li.active a {
   color: #ffffff ;
-  background-color: #f5953a;
+  background-color: #ffbc00;
   padding: 4px 10px;
   border-radius: 5px;
 }
@@ -104,7 +104,7 @@ a {
 }
 .navbar .container .links ul li:hover a {
   color: #ffffff;
-  background-color: #f5953a;
+  background-color: #ffbc00;
   border-radius: 5px;
 }
 
