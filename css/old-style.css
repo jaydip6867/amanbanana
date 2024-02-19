@@ -1644,6 +1644,7 @@ th.firstchild {
   padding: 7px;
   border-radius: 50%;
   float: left;
+  display: none;
 }
 
 .head-sign111 span img {
